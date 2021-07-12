@@ -1,4 +1,4 @@
-# Supervised-Learning-Classification
+## Supervised-Learning-Classification
 Repository containing Supervised Learning Classification Concepts, Case studies, different classification models building and evaluating the metrics.
 ## Contents:
 - ## Case Studies
