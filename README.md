@@ -1,5 +1,5 @@
 # Supervised-Learning-Classification 
-
+Repository containing Supervised Learning Classification Concepts, Case studies, different classification models and this includes Logistic regression models, ensemble technique, bagging models & boosting models and stacked models and measuring the performance of the model using various model performance evaluation metrics.
 
 ## Contents:
 
